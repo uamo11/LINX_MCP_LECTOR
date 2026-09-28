@@ -144,3 +144,7 @@ Este proyecto está bajo la Licencia **[MIT](LICENSE)**.
 
 * 🌐 Sitio Web y Comunidad: **[uam.lol/j](https://uam.lol/j)**
 * 📢 Únete a la conversación y comparte tus mejoras para que el proyecto siga creciendo.
+
+---
+
+Más proyectos en [uam.lol](https://uam.lol)
